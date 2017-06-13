@@ -1,1 +1,1 @@
-Maksym Reshetnikau
+Maksym Reshetnikau(Maksim Reszetnikow)
