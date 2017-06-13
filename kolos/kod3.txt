@@ -1,4 +1,4 @@
-
+//maksym reshetnikau
 #include <iostream>
 #include <windows.h>
 #include <cstdlib>
