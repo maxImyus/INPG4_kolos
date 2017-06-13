@@ -13,7 +13,7 @@ struct vinyle
   string styl;
 };
 
-short i;             // zmienna przechowujaca ilosc plyt
+short i;             // zmiena przechowujaca ilosc plyt
 vinyle vinyl[200];   //200 elementowa tablica struktur
 
 void Dodaj();        //deklaruje funkcje
