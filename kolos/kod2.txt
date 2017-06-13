@@ -13,7 +13,7 @@ void funkcje_programu()
 {
  
  
-      cout << endl << "----------------------------------------" << endl;
+      cout << endl << "--------------------------------------" << endl;
       cout << "[1] Licz postac kanoniczna z ogolnej." << endl;
       cout << "[2] Licz postac ogolna z kanonicznej." << endl;
       cout << "[0] Wyjdz z programu." << endl;
