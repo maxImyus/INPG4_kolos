@@ -8,7 +8,7 @@ using namespace std;
  int pobierz(unsigned int liczba){
            if(liczba>1000)
            {
-            cout << "Najwieksza liczba moze byc 1000!\n";
+            cout << "Najwieksza liczba moze byc 1000!";
             cin.clear(); 
             cin.sync();  
  
